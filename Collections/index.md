@@ -174,3 +174,7 @@ class AgeComparator implements Comparator<Person> {
 ---
 This document provides a comprehensive overview of Java Collections and algorithms with examples.
 
+![Collections-in-Java](https://github.com/user-attachments/assets/b89fd1fd-488f-4725-ab6d-cca9f4354b38)
+
+
+
