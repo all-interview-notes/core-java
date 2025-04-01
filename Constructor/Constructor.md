@@ -433,3 +433,17 @@ Sum: 6.0
 This ensures **flexibility, readability, and better code maintainability** in Java programs. 🚀
 
 
+## **Questions**
+1. What is a constructor in Java?
+2. What are the key features of a constructor?
+3. How are constructors different from Java methods?
+4. Why do we need constructors in Java?
+5. When is a Java constructor called?
+6. What are the types of constructors in Java?
+7. Can a Java constructor be private?
+8. What is constructor overloading?
+9. What happens if no constructor is defined in a Java class?
+10. Can constructors be final or static in Java?
+11. Can constructors throw exceptions in Java?
+
+
