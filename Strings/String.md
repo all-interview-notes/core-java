@@ -1,4 +1,3 @@
-// String
 **Java Strings and Character Arrays**
 
 ### 1. What are Strings in Java?
@@ -34,9 +33,10 @@ System.out.println(charArray);  // Output: Java
 ```java
 char[] chars = {'H', 'i', '\0', 'J', 'a', 'v', 'a'};
 System.out.println(chars);  // Output: Hi
+```
 
+---
 
-// Strings are immutable
 **Java Strings are Immutable**
 
 ### 1. What Does Immutable Mean?
@@ -108,7 +108,8 @@ s1 refers to java
 - **How does String Immutability Help Memory Efficiency?**
   - By **reusing** existing strings in the String Pool, reducing memory usage.
 
-// Thread Safe
+---
+
 **What Does "Thread Safety" Mean for Strings?**
 
 ### 1. What is Thread Safety?
@@ -127,6 +128,8 @@ s1 refers to java
 Imagine a **shared notebook** where people can only **read** but **not write**:
 - Multiple people can read the notebook **at the same time** without issues.
 - Since no one can edit it, the content **remains the same for everyone**.
+
+
 
 #### **In Java:**
 ```java
